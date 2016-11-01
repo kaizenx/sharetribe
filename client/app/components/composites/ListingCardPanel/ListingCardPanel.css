@@ -2,7 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: calc(var(--ListingCardPanel_gutterSpacing) / 2);
+  padding: calc(var(--ListingCardPanel_gutterSpacing) / 4);
 
   &::after {
     content: '';
