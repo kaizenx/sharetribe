@@ -1,6 +1,4 @@
 .git
-Dockerfile
-docker-compose.*
 log
 .DS_Store
 
